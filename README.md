@@ -1,4 +1,4 @@
-![影片截圖說明](https://img.youtube.com/vi/R8XWANTHmfk/hqdefault.jpg)](https://www.youtube.com/watch?v=R8XWANTHmfk)
+[![影片截圖說明](https://img.youtube.com/vi/R8XWANTHmfk/hqdefault.jpg)](https://www.youtube.com/watch?v=R8XWANTHmfk)
 
 # Embedding Image
 This is a GUI tool in Octave for loading one image, applying a mask, and embedding the mask into the target image. The GUI provides interactive buttons to load images and visualize the result.
