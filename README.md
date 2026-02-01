@@ -8,9 +8,9 @@ This is a GUI tool in Octave for loading one image, applying a mask, and embeddi
 
 # Tools
 - GNU Octave (Alternative for MATLAB)
-- Image package in Octave (pkg load image)
+- Python
 
-# How to Run
+# How to Run from Octave
 1. Open Octave
 2. Save the script as **embed.m**
 3. Run the main function
